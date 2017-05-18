@@ -1,4 +1,6 @@
 # CMS-SUS-XPAG
+cd CMS-SUS-XPAG/PlotsSMS/
+
 for limit plot
 
   python python/makeSMSplots.py config/T5qqqqWW_SUS16042.cfg limitSUS16042
